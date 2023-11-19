@@ -1,6 +1,8 @@
 # polaroid-obs-plugin
 This a Polaroid plugin for OBS and StreamerBot, which let's users create polaroid pictures of the streamer and uploads them to Discord.
 
+![](polaroid_sample.gif)
+
 This plugin is heavily inspired from a free plugin previously developed by [Andilippy and StreamUP](https://streamup.tips/product/polaroid-picture). The Streamer.Bot code was developed on that plugins base. It was adapted in some major parts
  - stream lined code and OBS implementation
  - photo development effect
