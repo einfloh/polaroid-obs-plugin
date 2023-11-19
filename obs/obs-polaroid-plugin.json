@@ -782,7 +782,7 @@
             "id": "image_source",
             "versioned_id": "image_source",
             "settings": {
-                "file": "E:/Twitch/Overlay/Polaroid/Camera.png"
+                "file": "<PATH_TO_RESOURCES>/Camera.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -808,7 +808,7 @@
             "id": "ffmpeg_source",
             "versioned_id": "ffmpeg_source",
             "settings": {
-                "local_file": "E:/Twitch/Overlay/Polaroid/countdown.webm",
+                "local_file": "<PATH_TO_RESOURCES>/countdown.webm",
                 "restart_on_activate": true
             },
             "mixers": 255,
@@ -873,7 +873,7 @@
             "id": "image_source",
             "versioned_id": "image_source",
             "settings": {
-                "file": "E:/Twitch/Overlay/Polaroid/Frame.png"
+                "file": "<PATH_TO_RESOURCES>/Frame.png"
             },
             "mixers": 0,
             "sync": 0,
